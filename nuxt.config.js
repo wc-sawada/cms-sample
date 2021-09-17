@@ -40,7 +40,8 @@ export default {
     // https://go.nuxtjs.dev/axios
     '@nuxtjs/axios',
     //'@nuxtjs/bulma',
-    '@nuxtjs/apollo'
+    '@nuxtjs/apollo',
+    '@nuxt/content'
   ],
 
   // apolloの設定ファイルのパス
