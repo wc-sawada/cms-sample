@@ -1,0 +1,12 @@
+query MyQuery {
+  posts {
+    title
+    openAt
+    body {
+      html
+    }
+    images {
+      url
+    }
+  }
+}
