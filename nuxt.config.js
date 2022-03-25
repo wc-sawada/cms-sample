@@ -40,16 +40,18 @@ export default {
     // https://go.nuxtjs.dev/axios
     '@nuxtjs/axios',
     //'@nuxtjs/bulma',
-    '@nuxtjs/apollo',
+    //'@nuxtjs/apollo',
     '@nuxt/content'
   ],
 
   // apolloの設定ファイルのパス
+  /*
   apollo: {
     clientConfigs: {
       default: '~/apollo/client-configs/default.js'
     }
   },
+  */
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
   axios: {},
